@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Stocks tumble as disappointing earnings fan investor fears - Reuters",
+    "description": "Stock markets dropped on Friday, following on from a late slump in the U.S. as fears about the pace of monetary policy tightening and weaker-than-expected earnings from companies that soared in the pandemic hit investor confidence.",
+    "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-01-21/",
+    "urlToImage": "https://www.reuters.com/resizer/yn2RILzc4-XaItbmWJ3Uh07nYmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HJIDC4POU5PG7OV4ZSMYMM3KEE.jpg",
+    "publishedAt": "2022-01-21T11:34:00Z",
+    "content": "LONDON, Jan 21 (Reuters) - Stock markets dropped on Friday, following on from a late slump in the U.S. as fears about the pace of monetary policy tightening and weaker-than-expected earnings from com… [+4229 chars]"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Trefor Moss",
+    "title": "How a Small Town Learned to Stop Worrying and Love Amazon - The Wall Street Journal",
+    "description": "In Darlington, England, shopkeepers rue e-commerce, but the town has embraced new jobs brought by an Amazon warehouse",
+    "url": "https://www.wsj.com/articles/how-a-small-town-learned-to-stop-worrying-and-love-amazon-11642761003",
+    "urlToImage": "https://images.wsj.net/im-470990/social",
+    "publishedAt": "2022-01-21T10:30:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Intel plans $20 bln chip manufacturing site in Ohio - Reuters",
+    "description": "Intel Corp will invest $20 billion in two new plants in Ohio to make advanced chips, the company said on Friday, the first step to a \"mega-site\" that can accommodate eight chip factories costing $100 billion.",
+    "url": "https://www.reuters.com/technology/intel-plans-new-chip-manufacturing-site-ohio-report-2022-01-21/",
+    "urlToImage": "https://www.reuters.com/resizer/xcBf7lZeSLbBLo890breb0gz0k8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ORZXBO5JFBJJBLE3YD5GVJ2PEA.jpg",
+    "publishedAt": "2022-01-21T10:29:00Z",
+    "content": "WASHINGTON/SAN FRANCISCO, Jan 20 (Reuters) - Intel Corp will invest $20 billion in two new plants in Ohio to make advanced chips, the company said on Friday, the first step to a \"mega-site\" that can … [+2637 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Ken Martin",
+    "title": "Bitcoin trades below $40,000 as Fed issues report on digital currencies - Fox Business",
+    "description": "Bitcoin has had a rough week just like equities. The cryptocurrency has traded down for 5 straight days.",
+    "url": "https://www.foxbusiness.com/markets/bitcoin-1-21-2022",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/bitcoin-iStock.jpg?ve=1&tl=1",
+    "publishedAt": "2022-01-21T10:05:13Z",
+    "content": "Bitcoin has had a rough week just like equities. The cryptocurrency has traded down for five straight days.\r\nBitcoin fell below $40,000 for the second time this month and is off more than 10% for the… [+2471 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-times",
+      "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Netflix warning on subscriber growth sends stock plummeting - Financial Times",
+    "description": "Sharp sell-off comes as investors dump shares in Peloton and other companies that prospered in the pandemic",
+    "url": "https://www.ft.com/content/fea461d6-e3e0-4016-a641-fca87e59d019",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d1da3b9-ccec-45bb-bb35-9f2417e10de4.jpg?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2022-01-21T09:52:27Z",
+    "content": "Netflix has warned that subscriber growth would slow substantially in early 2022, sending its stock tumbling 20 per cent in pre-market trading on Friday in the latest instance of investors dumping sh… [+4061 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Karishma Vanjani",
+    "title": "Peloton CEO Calls Report Claiming the Company Is Halting Production False - Barron's",
+    "description": "The report sent shares of Peloton into a free fall. The stock was rising early Friday.",
+    "url": "https://www.barrons.com/articles/peloton-stock-price-production-halt-report-51642702799",
+    "urlToImage": "https://images.barrons.com/im-471056/social",
+    "publishedAt": "2022-01-21T09:47:00Z",
+    "content": "Peloton co-founder and CEO John Foley said a media report that claimed the company was halting all production of its bikes and other connected-fitness products amid lower demand from consumers was fa… [+3288 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Associated Press",
+    "title": "Toyota halts production at 11 plants due to parts crunch from COVID-19 - Fox Business",
+    "description": "The shortage of parts caused by the coronavirus pandemic is further denting production at Toyota, Japan’s top automaker.",
+    "url": "https://www.foxbusiness.com/markets/toyota-halts-production-at-11-plants",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/AP21340433832237.jpg?ve=1&tl=1",
+    "publishedAt": "2022-01-21T09:02:53Z",
+    "content": "The shortage of parts caused by the coronavirus pandemic is further denting production at Toyota, Japan’s top automaker.\r\nProduction at 11 plants in Japan will be halted Friday, Saturday and next Mon… [+2784 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Airbus revokes Qatar order for 50 A321 jets as rift widens - Reuters",
+    "description": "Airbus <a href=\"https://www.reuters.com/companies/AIR.PA\" target=\"_blank\">(AIR.PA)</a> on Thursday raised the stakes in a dispute with major customer Qatar Airways over grounded and undelivered A350 jets by announcing it had revoked a separate contract for 50…",
+    "url": "https://www.reuters.com/business/aerospace-defense/qatar-airways-airbus-court-hearing-set-late-april-2022-01-20/",
+    "urlToImage": "https://www.reuters.com/resizer/ft6sYLIlDBGOKpzzY_Z0r5Fi3zw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4WLG6PANC5LETOPVBIFVAZTFFE.jpg",
+    "publishedAt": "2022-01-21T08:21:00Z",
+    "content": "PARIS, Jan 21 (Reuters) - Airbus (AIR.PA) on Thursday raised the stakes in a dispute with major customer Qatar Airways over grounded and undelivered A350 jets by announcing it had revoked a separate … [+4281 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Ken Martin",
+    "title": "Stock futures trade mixed as tech selling continues - Fox Business",
+    "description": "Investors brace for volatility for U.S. stocks as the week winds down.",
+    "url": "https://www.foxbusiness.com/markets/stock-futures-1-21-2022",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/ap17027586571613.jpg?ve=1&tl=1",
+    "publishedAt": "2022-01-21T08:12:09Z",
+    "content": "U.S. equities were trading lower on Friday morning, after a late Thursday afternoon sell-off wiped out all gains.\r\nThe tech-heavy Nasdaq looks to decline by 0.8%, with the S&amp;P 500 about 0.4% lowe… [+3453 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Oil falls as investors scoop up profits after U.S. inventory build - Reuters",
+    "description": "Oil prices fell on Friday, pressured by an unexpected rise in U.S. crude and fuel inventories while investors took profits after the global benchmarks touched seven-year highs this week.",
+    "url": "https://www.reuters.com/business/energy/oil-falls-us-inventory-build-prompts-profit-taking-2022-01-21/",
+    "urlToImage": "https://www.reuters.com/resizer/6tNh48fmyO8ZjkK39ZSce9JaKE4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6M3MAFRGENJS5KIJQK6P6465NQ.jpg",
+    "publishedAt": "2022-01-21T08:05:00Z",
+    "content": "London, Jan 21 (Reuters) - Oil prices fell on Friday, pressured by an unexpected rise in U.S. crude and fuel inventories while investors took profits after the global benchmarks touched seven-year hi… [+2265 chars]"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Bitcoin Tumbles Below $40000 to Lowest Level in Five Months - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0269344f-7a98-11ec-bbfd-527858795577&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMS0yMS9iaXRjb2luLXR1bWJsZXMtYmVsb3ctNDAtMDAwLXRvLWxvd2VzdC1sZXZlbC1pbi1maXZlLW1vbnRocw==",
+    "urlToImage": null,
+    "publishedAt": "2022-01-21T07:01:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Saheli Roy Choudhury",
+    "title": "Singapore's second SPAC made its debut on Friday — and a third one is on its way - CNBC",
+    "description": "Pegasus Asia is the first Singapore-listed special purpose acquisition company with international backers such as European asset manager Tikehau Capital.",
+    "url": "https://www.cnbc.com/2022/01/21/singapore-spac-ipo-for-pegasus-asia-backed-by-european-investors.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106910587-1626250166749-gettyimages-1209324396-AFP_1QF878.jpeg?v=1632808827",
+    "publishedAt": "2022-01-21T06:24:35Z",
+    "content": "A general view shows the Singapore Exchange (SGX) stock exchange building in the central business district in Singapore on April 7, 2020, as the country ordered the closure of all businesses deemed n… [+4276 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Mail"
+    },
+    "author": "Harriet Alexander",
+    "title": "United and American Airlines CEOs - both have contracts with federal gov - claim 5G doomsday is over - Daily Mail",
+    "description": "The heads of American Airlines and United have both said they are confident the 5G fiasco has been dealt with - despite the president of Emirates calling issue a shambles.",
+    "url": "https://www.dailymail.co.uk/news/article-10425387/United-American-Airlines-CEOs-contracts-federal-gov-claim-5G-doomsday-over.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/21/06/53195303-0-image-a-199_1642745371844.jpg",
+    "publishedAt": "2022-01-21T06:10:36Z",
+    "content": "The heads of American Airlines and United have both claimed that the drama around 5G technology was over - despite the head of Emirates warning that a 'long-term resolution' is now needed.\r\nAT&amp;T … [+10979 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Laura He, CNN Business",
+    "title": "Evergrande's international creditors threaten legal action over 'opaque' restructuring process - CNN",
+    "description": "Evergrande's international creditors are losing patience.",
+    "url": "https://www.cnn.com/2022/01/21/investing/evergrande-china-debt-bondholders-legal-action-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220120221207-02-evergrande-china-1210-restricted-super-tease.jpg",
+    "publishedAt": "2022-01-21T05:57:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9News.com KUSA"
+    },
+    "author": "Erin Powell",
+    "title": "What the union and King Soopers are saying as strike enters second week - 9News.com KUSA",
+    "description": "How are the King Soopers negotiations going? Depends on which side you ask.",
+    "url": "https://www.9news.com/article/news/local/next/king-soopers-strike-union-store-presidents-update/73-f3b8e7d7-00e9-47af-ac47-ea137649687b",
+    "urlToImage": "https://media.9news.com/assets/KUSA/images/ebd43b81-7f72-4ddd-8ae8-c1b70e3a2e64/ebd43b81-7f72-4ddd-8ae8-c1b70e3a2e64_1140x641.jpg",
+    "publishedAt": "2022-01-21T04:52:00Z",
+    "content": "DENVER The King Soopers strike has entered its second week. Since it began, the grocery chain requested and was granted a temporary restraining order limiting the number of workers on the picket line… [+9625 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KRON4"
+    },
+    "author": "Aaron Tolentino",
+    "title": "Tesla factory employee in Fremont dies after working on power train line - KRON4",
+    "description": "A Tesla factory worker in Fremont died Wednesday after working on the power train line, according to an email from state officials.",
+    "url": "https://www.kron4.com/news/bay-area/tesla-factory-employee-in-fremont-dies-after-working-on-power-train-line/",
+    "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2020/07/tesla.jpg?w=1280",
+    "publishedAt": "2022-01-21T03:56:24Z",
+    "content": "FREMONT, Calif. (KRON) — A Tesla factory worker in Fremont died Wednesday after working on the power train line, according to an email from state officials.\r\nThe worker was identified as 47-year-old … [+440 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "East Idaho News"
+    },
+    "author": null,
+    "title": "American Airlines flight bound for London turns around mid-flight over mask rule compliance - East Idaho News",
+    "description": "(CNN) — An American Airlines passenger plane bound for London turned around mid-flight due to a mask-related disruption on Wednesday. “American Airlines flight 38 with service from Miami (MIA) to London (LHR) returned to MIA due to a disruptive customer refus…",
+    "url": "https://www.eastidahonews.com/2022/01/american-airlines-flight-bound-for-london-turns-around-mid-flight-over-mask-rule-compliance/",
+    "urlToImage": "https://s3-assets.eastidahonews.com/wp-content/uploads/2022/01/20205237/hypatia-h_7aa68133a2f52d9f542297900071ba6d-h_9a90bc536d833a497611642467ef3398.jpg",
+    "publishedAt": "2022-01-21T03:52:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "San Diego home prices soar with some areas more affordable than others - CBS 8 San Diego",
+    "description": "The 2021 housing market was one for the history books with the median sales price for homes in San Diego County at $740,000 over the past year, according to ...",
+    "url": "https://www.youtube.com/watch?v=qgm3r4jI-vo",
+    "urlToImage": "https://i.ytimg.com/vi/qgm3r4jI-vo/hqdefault.jpg",
+    "publishedAt": "2022-01-21T03:26:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS News 8"
+    },
+    "author": "Shannon Handy (Reporter)",
+    "title": "Breaking down SDG&E bills; why are they so high? - CBS News 8",
+    "description": "\"It doesn't make any sense,\" said Sylvester Raymond of Imperial Beach.",
+    "url": "https://www.cbs8.com/article/news/local/breaking-down-sdge-bills-why-so-high/509-c62b662d-8383-4e67-97ca-eddc11b27dc2",
+    "urlToImage": "https://media.cbs8.com/assets/KFMB/images/e0ce4e0c-60da-4540-a675-6ad6f636688f/e0ce4e0c-60da-4540-a675-6ad6f636688f_1140x641.jpg",
+    "publishedAt": "2022-01-21T03:13:00Z",
+    "content": "SAN DIEGO COUNTY, Calif. San Diego Gas and Electric customers are questioning why their recent bills are so high.\r\nSDG&amp;E raised rates January first, but CBS 8 is hearing from people who say the n… [+3252 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "New Girl Scouts cookie not available for pre-order in Colorado - Denver7 – The Denver Channel",
+    "description": "Sorry cookie fans! Girl Scouts' newest cookie is so popular, it is no longer available for pre-order in Colorado.",
+    "url": "https://www.youtube.com/watch?v=rHxGgPxqbIQ",
+    "urlToImage": "https://i.ytimg.com/vi/rHxGgPxqbIQ/hqdefault.jpg",
+    "publishedAt": "2022-01-21T01:32:50Z",
+    "content": null
+  }
+]
+}
