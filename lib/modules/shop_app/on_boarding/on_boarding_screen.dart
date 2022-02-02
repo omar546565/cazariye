@@ -5,7 +5,9 @@ import 'package:cazariye/modules/shop_app/login/shop_login_screen.dart';
 import 'package:cazariye/shared/companents/companents.dart';
 import 'package:cazariye/shared/network/local/cache_helper.dart';
 
+import '../../../layout/shop_app/shop_layout.dart';
 import '../../../shared/styles/colors.dart';
+import '../products_screen/products_screen.dart';
 
 class BoardignModel
 {
@@ -37,14 +39,14 @@ class _OnBoardingScreenState extends State<OnBoardingScreen>
   List<BoardignModel> boarding =
   [
     BoardignModel( image:'assets/images/onboard_1.jpg',
-      title: 'onboard_1 title',
-      body: 'onboard_1 body',),
+      title: 'مؤسسة إتقان للتعليم والتنمية',
+      body: 'تقدم',),
     BoardignModel( image:'assets/images/onboard_2.jpg',
-      title: 'onboard_2 title',
-      body: 'onboard_2 body',),
+      title: 'منظومة الجزرية',
+      body: 'دورات تعليمية',),
     BoardignModel( image:'assets/images/onboard_3.jpg',
-      title: 'onboard_3 title',
-      body: 'onboard_3 body',),
+      title: 'القراءة السليمة',
+      body: 'ضبط القرآن',),
   ];
 
   bool isLast = false;
@@ -53,7 +55,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen>
     CacheHelper.saveData(key: 'onBoarding', value: true,).then((value) {
       if(value)
         {
-          navigateAndFinish(context, ShopLoginScreen());
+          navigateAndFinish(context, ShopLayout());
         }
     });
 
